@@ -13,7 +13,7 @@ Orchestration LangGraph pour gérer la boucle de correction et modèle Phi3 (oll
 4. **Réponse** → Sinon, on synthétise une réponse en langage naturel à partir des résultats.
 
 
-![1788432626013](image/README/1788432626013.png)
+<img width="678" height="774" alt="image" src="https://github.com/user-attachments/assets/a857cc82-329e-422d-83bb-15aec2774319" />
 
 
 
