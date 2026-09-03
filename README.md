@@ -19,8 +19,6 @@ Orchestration LangGraph pour gérer la boucle de correction et modèle Phi3 (oll
 
 ## Architecture
 
-Le projet est minimaliste et modulaire :
-
 **src/**
 
 - **state.py** → Définit `AgentState` (TypedDict) : question, schéma, requête SQL, erreur, résultats, compteur de tentatives, réponse finale.
