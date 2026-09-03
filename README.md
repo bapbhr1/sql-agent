@@ -75,9 +75,7 @@ Autres modèles recommandés pour CPU :
 
 ## Visualisation LangSmith 
 
-Vous pouvez tracer chaque exécution du graphe sur **LangSmith** pour debugging .
 
-Créez un compte gratuit : https://smith.langchain.com
 
 `.env` :
 
