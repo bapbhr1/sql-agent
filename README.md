@@ -1,5 +1,5 @@
 
-Agent autonome qui transforme une question en langage naturel en requête SQL, l'exécute sur une base SQLite locale et s'auto-corrige en cas d'erreur avant de renvoyer une réponse synthétique.
+Agent autonome qui transforme une question en requête SQL, l'exécute sur une base SQLite locale et s'auto-corrige en cas d'erreur avant de renvoyer une réponse synthétique.
 
 Orchestration LangGraph pour gérer la boucle de correction et modèle Phi3 (ollama).
 
