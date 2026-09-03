@@ -1,0 +1,16 @@
+# Ignorés Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets et bases générées
+.env
+*.db
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
